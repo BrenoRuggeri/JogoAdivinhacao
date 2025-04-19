@@ -43,3 +43,5 @@ gcc jogo_adivinhacao.c -o jogo
 gcc jogo_adivinhacao.c -o jogo.exe
 jogo.exe
 ```
+## 🎓 Certificado
+![image](https://github.com/user-attachments/assets/847e9efe-bee3-40ae-83a1-0bfb1c3702cf)
